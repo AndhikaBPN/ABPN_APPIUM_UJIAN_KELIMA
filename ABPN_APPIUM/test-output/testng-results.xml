@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-24T23:48:26 ICT" name="Default suite" finished-at="2022-09-24T23:48:56 ICT" duration-ms="30177">
+    <groups>
+    </groups>
+    <test started-at="2022-09-24T23:48:26 ICT" name="Default test" finished-at="2022-09-24T23:48:56 ICT" duration-ms="30177">
+      <class name="ujian.ujiankelima.appium.runner.TestCreateTask">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ujian.ujiankelima.appium.runner.TestCreateTask@26d9b808]" started-at="2022-09-24T23:48:26 ICT" name="setUp" finished-at="2022-09-24T23:48:34 ICT" duration-ms="7697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="pageObject()[pri:0, instance:ujian.ujiankelima.appium.runner.TestCreateTask@26d9b808]" started-at="2022-09-24T23:48:34 ICT" name="pageObject" finished-at="2022-09-24T23:48:35 ICT" duration-ms="1462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageObject -->
+        <test-method signature="testCreate()[pri:0, instance:ujian.ujiankelima.appium.runner.TestCreateTask@26d9b808]" started-at="2022-09-24T23:48:35 ICT" name="testCreate" finished-at="2022-09-24T23:48:44 ICT" duration-ms="9006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreate -->
+        <test-method is-config="true" signature="pageObject()[pri:0, instance:ujian.ujiankelima.appium.runner.TestCreateTask@26d9b808]" started-at="2022-09-24T23:48:44 ICT" name="pageObject" finished-at="2022-09-24T23:48:44 ICT" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageObject -->
+        <test-method signature="testEdit()[pri:1, instance:ujian.ujiankelima.appium.runner.TestCreateTask@26d9b808]" started-at="2022-09-24T23:48:44 ICT" name="testEdit" finished-at="2022-09-24T23:48:53 ICT" duration-ms="8967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEdit -->
+        <test-method is-config="true" signature="pageObject()[pri:0, instance:ujian.ujiankelima.appium.runner.TestCreateTask@26d9b808]" started-at="2022-09-24T23:48:53 ICT" name="pageObject" finished-at="2022-09-24T23:48:53 ICT" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageObject -->
+        <test-method signature="testCompleted()[pri:2, instance:ujian.ujiankelima.appium.runner.TestCreateTask@26d9b808]" started-at="2022-09-24T23:48:53 ICT" name="testCompleted" finished-at="2022-09-24T23:48:56 ICT" duration-ms="2349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCompleted -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:ujian.ujiankelima.appium.runner.TestCreateTask@26d9b808]" started-at="2022-09-24T23:48:56 ICT" name="closeApp" finished-at="2022-09-24T23:48:56 ICT" duration-ms="575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- ujian.ujiankelima.appium.runner.TestCreateTask -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
